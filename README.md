@@ -1,3 +1,4 @@
+This project is based on [section 13 of the react-redux course](https://www.udemy.com/react-redux/learn/v4/t/lecture/12531430?start=0) on the topic Intrtgrating react wit redux
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
